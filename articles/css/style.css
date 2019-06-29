@@ -147,23 +147,13 @@ figcaption {
 	height:60px;
 	bottom:40px;
 	right:40px;
-	background-color:rgba(30, 30, 30, 0.76);
+	background-color:#0C9;
 	color:#FFF;
 	border-radius:50px;
 	text-align:center;
 	box-shadow: 2px 2px 3px #999;
 }
 
-
-.float-button {
-position: fixed;
-right: -77px;
-top: 270px;
-transition: all 0.2s ease-in 0s;//this is the key attribute
-z-index: 9999;
-cursor: pointer;
-}
-
-.float-button:hover {
-right: -7px;//hide it by pushing it off the screen
+.my-float{
+	margin-top:22px;
 }
