@@ -1,0 +1,43 @@
+<html><head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Blog de l'Appart – Appart404, la nouvelle branche multimédia</title>
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+
+  
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+  <article class="article">
+  <header class="header">
+    <div class="category">Inside</div>
+    <h1 class="headline">Appart404, la nouvelle branche multimédia</h1>
+    <div class="meta">
+      <span class="author">par <span class="author-name">Acrone</span></span>
+      <span class="pub-date">Posté le 29 Juin 2019</span>
+    </div>
+  </header>
+
+  <p>Et c'est reparti pour un tour.</p>
+  
+  <p>Ces derniers jours, différents projets externes au serveur sont apparus (et réapparus) avec notamment un projet de jeu calqué sur le serveur et le retour, peut-être, de la Gazette à un moment où un autre.
+    En outre il était nécessaire de remettre en ordre tout ce qui était relatif aux plateformes qu'on va utiliser pour concrétiser ces idées. C'est pourquoi tous les futurs projets seront désormais rassemblés sous une seule et même branche, <b>Appart404</b>.</p>
+  <p>Cette "branche multimédia" de notre communauté permettra notamment de donner un nom à l'équipe formée par les contributeurs à la concrétisation de ces idées (comme le développement du jeu gameboy).
+<br> <br> A la prochaine pour le retour de la Gazette !
+</p>
+    <figure>
+    <img src="https://i.imgur.com/w2iCxK0.jpg" alt="Apt404 Art">
+  </figure>
+</article>
+<a href="https://appart404.github.io/blog/" class="float">
+<i class="fa fa-envelope my-float"></i>
+</a>
+<div class="label-container">
+<div class="label-text">Menu</div>
+<i class="fa fa-play label-arrow"></i>
+</div>
+</body></html>
