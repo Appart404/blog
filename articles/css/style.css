@@ -149,11 +149,11 @@ figcaption {
 	right:30px;
 	background-color:#292929;
 	color:#FFF;
-	border-radius:40px;
+	border-radius:1240px;
 	text-align:center;
-	box-shadow: 1px 1px 2px #999;
+	box-shadow: 2px 3px 3px #2525252b;
 }
 
 .my-float{
-	margin-top:22px;
+	margin-top:12px;
 }
